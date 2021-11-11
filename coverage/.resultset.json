@@ -1,0 +1,211 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/models/recipe.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/models/ingredient.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/models/instruction.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/models/recipe_ingredient.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/models/recipe_instruction.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/controllers/recipes/recipes_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          null,
+          null,
+          null,
+          2,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          2,
+          null,
+          null,
+          2,
+          null,
+          2,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/serializers/recipe_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/controllers/recipes/details_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/app/facades/recipe_ingredients_facade.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/recipes/lib/api_version.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1636663175
+  }
+}

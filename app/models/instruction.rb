@@ -1,0 +1,3 @@
+class Instruction < ApplicationRecord 
+  
+end 
